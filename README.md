@@ -1,1 +1,1 @@
-<font size="25"><center>Altis RPG  -- Blackwater</center></font>
+<font size="25"><center>Altis RPG  -- Blackwater</font></center>
