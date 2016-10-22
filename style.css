@@ -5,8 +5,14 @@ body {
 
 
 header {
-	background-color: green;
+	background-color: #CBCBCB;
 	height: 120px;
+}
+
+
+
+section {
+	
 }
 
 
@@ -19,13 +25,21 @@ a {
 	text-decoration:none;
 	margin-left: 10px;
 	margin-right: 10px;
-
+	background-color: #866C8C;
+	color: #FF0004;
 }
 
 nav {
 	text-align: center;
+	border: 4px;
 }
 
 ul {
 
+}
+
+a:hover {
+	
+	color: #FF0000;
+    background-color: #00EBFF;
 }
