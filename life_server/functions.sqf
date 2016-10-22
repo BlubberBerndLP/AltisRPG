@@ -5,9 +5,6 @@
 
     Description: They are functions.
 */
-
-publicVariable "TON_fnc_terrainSort";
-
 TON_fnc_index =
 compileFinal "
     private [""_item"",""_stack""];
