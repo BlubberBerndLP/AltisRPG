@@ -57,6 +57,9 @@ a:hover {
 	margin-top: 50px;
 }
 
-#sp {
+#sp1 {
 	margin-top: 90px;
+	float: right;
+	margin-right: 650px;
+	padding: 5px;
 }
