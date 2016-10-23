@@ -20,7 +20,7 @@
 
                     <font size="5">
 
-                    <li><a href="index.php">Home</li></a>
+                    <li><a href="index.html">Home</li></a>
                     <li><a href="regeln.php">Regeln</li></a>
                     <li><a href="sonstiges.php">Sonstiges</li></a>
 
