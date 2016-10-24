@@ -3,6 +3,7 @@ body {
     align-content: center;
     margin-right: auto;
     background-color: #CBCBCB;
+    font-family: "Trebuchet MS";
 }
 
 header {
@@ -25,10 +26,6 @@ a {
 nav {
     text-align: center;
     border: 4px;
-}
-
-ul {
-
 }
 
 a:hover {
